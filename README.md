@@ -1,6 +1,4 @@
-![Push_Swap](https://via.placeholder.com/800x200/1a1a1a/00d4ff?text=PUSH_SWAP+%7C+T%C3%9CRK+SORT+ALGORITHM)
-
-# 🔥 PUSH_SWAP: Türk Sort Devrimi
+# 🔥 PUSH_SWAP: Türk Algoritması
 
 > **"Standart algoritmaları geride bıraktım, %22 daha hızlı çözüm yarattım"**
 
