@@ -2,24 +2,7 @@
 
 > **"Standart algoritmaları geride bıraktım, %22 daha hızlı çözüm yarattım"**
 
-<table>
-<tr>
-<td>
 
-
-
-</td>
-<td>
-
-**📊 Test Analizi**
-- 100 sayı: **548 işlem** (hedef 700)
-- 500 sayı: **4,287 işlem** (hedef 5,500)
-- Test başarısı: **%100**
-- Optimizasyon: **Kanıtlanmış**
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -33,7 +16,7 @@
 
 ---
 
-## 🏆 NEDEN BU ÖZEL?
+## 🏆 NEDEN BU?
 
 ### 💡 İnovasyon
 - **Medyan Tabanlı Pivot**: Geleneksel algoritmaları geride bıraktım
@@ -65,7 +48,7 @@ for i in {1..10}; do ./push_swap $(shuf -i 1-100 -n 100) | wc -l; done | awk '{s
 
 ---
 
-## 🧠 TÜRKİYE SORT ALGORİTMASI
+## 🧠 TÜRK ALGORİTMASI
 
 ### Nasıl Çalışır?
 ```mermaid
@@ -125,7 +108,6 @@ Stack A       Stack A|B      Stack A
 | Radix Sort | 634 | 4,891 | ❌ %12 yavaş |
 | Merge Sort | 721 | 5,340 | ❌ %23 yavaş |
 
-</details>
 
 ---
 
@@ -139,7 +121,6 @@ Stack A       Stack A|B      Stack A
 - 🧠 **Özgün algoritma** geliştirdim
 - 💎 **Sıfır hata** ile tamamladım
 
-### Gelecek Adımlar
 Bu algoritma, sorting optimizasyonu gerektiren her projeye adapte edilebilir. Performans odaklı geliştirme yaklaşımımı daha büyük sistemlerde de uygulayabilirim.
 
 ---
